@@ -1,0 +1,2 @@
+# Built-and-deployed-a-Digital-Stopwatch-Timer-on-the-AMD-RealDigital-Boolean-FPGA-board-Spartan-7-
+→ Verilog RTL design with clock divider, edge-detection button logic, and BCD counter → Start/Stop control via on-board button with edge-detection to prevent multiple triggers → Live count displayed on 4-digit 7-segment display - verified running in hardware → Post-implementation timing simulation completed in Xilinx Vivado 2025.1  
